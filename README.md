@@ -4,7 +4,7 @@ Hi there! We are happy you are interested in joining the frontend engineering te
 
 The fowllowing excercises are to determine your Frontend coding knowledge and skills.
 
-For this project, we would require you to use custom CSS design system and **VueJS**, ReactJS or Angular as a JS framework.
+For this project, we would require you to use custom CSS design system and **VueJS** framework (**Nuxt.js** is a plus).
 
 
 ### Before you start 
